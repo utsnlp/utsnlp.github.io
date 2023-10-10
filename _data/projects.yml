@@ -1,0 +1,52 @@
+- title: "topicx: Clustering with Contextual Embeddings for Topics"
+  image: topic_model_framework.jpg
+  year: 2022
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  description: "A framework for running topic models via clustering contextual embeddings. 
+    By clustering embeddings obtained from pre-trained language models (e.g., BERT) along 
+    with a word-selecting method, we can obtain coherent and diverse topics, which 
+    are simpler and more efficient than neural topic models.
+  "
+  code: https://github.com/hyintell/topicx
+  page: https://towardsdatascience.com/clustering-contextual-embeddings-for-topic-model-1fb15c45b1bd
+
+- title: "topicx: Clustering with Contextual Embeddings for Topics"
+  image: topic_model_framework.jpg
+  year: 2022
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  description: "A framework for running topic models via clustering contextual embeddings. 
+    By clustering embeddings obtained from pre-trained language models (e.g., BERT) along 
+    with a word-selecting method, we can obtain coherent and diverse topics, which 
+    are simpler and more efficient than neural topic models.
+  "
+  code: https://github.com/hyintell/topicx
+  page: https://towardsdatascience.com/clustering-contextual-embeddings-for-topic-model-1fb15c45b1bd
+
+
+- title: "topicx: Clustering with Contextual Embeddings for Topics"
+  image: topic_model_framework.jpg
+  year: 2022
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  description: "A framework for running topic models via clustering contextual embeddings. 
+    By clustering embeddings obtained from pre-trained language models (e.g., BERT) along 
+    with a word-selecting method, we can obtain coherent and diverse topics, which 
+    are simpler and more efficient than neural topic models.
+  "
+  code: https://github.com/hyintell/topicx
+  page: https://towardsdatascience.com/clustering-contextual-embeddings-for-topic-model-1fb15c45b1bd
+
+
+- title: "topicx: Clustering with Contextual Embeddings for Topics"
+  image: topic_model_framework.jpg
+  year: 2022
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  description: "A framework for running topic models via clustering contextual embeddings. 
+    By clustering embeddings obtained from pre-trained language models (e.g., BERT) along 
+    with a word-selecting method, we can obtain coherent and diverse topics, which 
+    are simpler and more efficient than neural topic models.
+  "
+  code: https://github.com/hyintell/topicx
+  page: https://towardsdatascience.com/clustering-contextual-embeddings-for-topic-model-1fb15c45b1bd
+
+
+
