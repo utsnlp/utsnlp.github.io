@@ -12,7 +12,7 @@
   venue: ICLR
   link:
     url: https://openreview.net/forum?id=CtS2Rs_aYk
-    code:
+    code: https://github.com/winni18/MorAL
 
 - title: "Self-imitation Learning for Action Generation in Text-based Games"
   year: 2023
@@ -20,7 +20,7 @@
   venue: EACL
   link:
     url: https://aclanthology.org/2023.eacl-main.50/
-    code: 
+    code: https://github.com/winni18/CSM
 
 - title: "Perceiving the World: Question-guided Reinforcement Learning for Text-based Games"
   year: 2022
