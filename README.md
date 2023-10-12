@@ -25,7 +25,9 @@ Then, in the project folder, run
 jekyll serve
 ```
 
-Open your browser and review the website at: http://localhost:4000. Once you have finished updating, commit your changes and push them to Github.
+Open your browser and review the website at: http://localhost:4000. 
+When the server is running, make your changes and refresh the website to review the changes.
+Once you have finished updating, commit your changes and push them to Github.
 
 
 ### Update Directly
