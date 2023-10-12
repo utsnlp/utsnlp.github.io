@@ -1,0 +1,32 @@
+- name: Zihan Zhang
+  photo: zihanz.jpg
+  duration: 2021
+  cosupervision: Jie Lu & Mo Namazi
+  info:
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?user=pkaouXAAAAAJ&hl=en
+    github: https://github.com/ZhangzihanGit
+    linkedin: https://www.linkedin.com/in/zihan-zhang-a40855172/
+
+- name: Zijing Shi
+  photo: zijing.jpg
+  duration: 2022
+  cosupervision: Hua Zuo
+  info: 
+  url:
+    personal_site: https://winni18.github.io/
+    google_scholar: https://scholar.google.com/citations?user=dIIHQaMAAAAJ&hl=zh-CN&oi=ao
+    github: https://github.com/winni18
+    linkedin: https://www.linkedin.com/in/zijing-shi-83100510b/
+
+- name: Mingze Zhong
+  photo: mingze.jpeg
+  duration: 2023
+  cosupervision: Hua Zuo
+  info:
+    url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin:
