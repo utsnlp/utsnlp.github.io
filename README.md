@@ -20,7 +20,7 @@ cd utsnlp.github.io
 Then checkout to the `dev` branch, we recommend to do changes and test it on this branch before merging to the `main` branch:
 
 ```bash
-git checkout -b dev
+git checkout dev
 ```
 
 This website is powered by [Jekyll](https://jekyllrb.com/), install Jekyll and its prerequisites (e.g., Ruby) by following the [doc](https://jekyllrb.com/docs/). 
