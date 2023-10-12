@@ -29,4 +29,5 @@ and send them to <ins>ling.chen@uts.edu.au</ins>.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts3.jpg" width="95%">
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2.jpeg" width="95%"> -->
 </figure>

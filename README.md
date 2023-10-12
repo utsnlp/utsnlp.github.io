@@ -17,6 +17,11 @@ git clone https://github.com/utsnlp/utsnlp.github.io.git
 cd utsnlp.github.io
 ```
 
+Then checkout to the `dev` branch, we recommend to do changes and test it on this branch before merging to the `main` branch:
+
+```bash
+git checkout -b dev
+```
 
 This website is powered by [Jekyll](https://jekyllrb.com/), install Jekyll and its prerequisites (e.g., Ruby) by following the [doc](https://jekyllrb.com/docs/). 
 Then, in the project folder, run 
@@ -27,7 +32,9 @@ jekyll serve
 
 Open your browser and review the website at: http://localhost:4000. 
 When the server is running, make your changes and refresh the website to review the changes.
-Once you have finished updating, commit your changes and push them to Github.
+Once you have finished updating, commit your changes and push them to Github on `dev` branch.
+
+Raise a **pull request** and merge from `dev` to `main`. Github [actions](https://github.com/utsnlp/utsnlp.github.io/actions) will take care of the deployment. Now you can review the live site [utsnlp.github.io](https://utsnlp.github.io/).
 
 
 ### Update Directly

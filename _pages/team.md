@@ -87,8 +87,8 @@ Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#m
   <h4>{{ member.name }}</h4>
   <i>
     since {{ member.duration }} 
-    <br>
-    co-supervised with {{ member.cosupervision }}
+    <!-- <br>
+    co-supervised with {{ member.cosupervision }} -->
   </i>
   <br>
   {% if member.url.personal_site != nil %}
@@ -191,8 +191,8 @@ Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#m
   <i>
     {{ member.duration }} 
     <br>
-    co-supervised with {{ member.cosupervision }}
-    <br> 
+    <!-- co-supervised with {{ member.cosupervision }}
+    <br>  -->
     Current: {{ member.info }}
   </i>
   <br>
