@@ -1,3 +1,27 @@
+- title: "How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances"
+  year: 2023
+  authors: Zihan Zhang\*, Meng Fang\*, Ling Chen, Mohammad-Reza Namazi-Rad, Jun Wang
+  venue: EMNLP
+  link:
+    url: https://arxiv.org/abs/2310.07343
+    code: https://github.com/hyintell/awesome-refreshing-llms
+
+- title: "Turn-Level Active Learning for Dialogue State Tracking"
+  year: 2023
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  venue: EMNLP
+  link:
+    url: 
+    code: 
+
+- title: "CITB: A Benchmark for Continual Instruction Tuning"
+  year: 2023
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  venue: EMNLP (Findings)
+  link:
+    url: 
+    code: 
+
 - title: "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models"
   year: 2023
   authors: Jiaxu Zhao\*, Meng Fang\*, Zijing Shi, Yitong Li, Ling Chen, Mykola Pechenizkiy
