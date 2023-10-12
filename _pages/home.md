@@ -6,6 +6,10 @@ sitemap: false
 permalink: /
 ---
 
+<div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2_cut.jpeg" alt="UTS picture" class="home_top_img"> 
+</div>
+
 The [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"} Natural Language Processing (**UTS NLP**) group is engaged in research within the field of natural language processing, with a primary aim of advancing language understanding and reasoning. 
 We create innovative algorithms and devise fresh frameworks to address complex challenges in NLP, leveraging techniques such as deep learning and reinforcement learning. 
 
@@ -17,7 +21,7 @@ Recently, our endeavors have concentrated on areas such as question answering, d
 
 
 <div class="home_imgs_div">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts1.jpg" alt="UTS picture" class="home_imgs">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2.jpeg" alt="UTS picture" class="home_imgs">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts1.jpg" alt="UTS picture" class="home_imgs"> -->
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2.jpeg" alt="UTS picture" class="home_imgs"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts_logo.png" alt="UTS picture" class="home_imgs">
 </div>
