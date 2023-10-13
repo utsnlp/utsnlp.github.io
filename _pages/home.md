@@ -23,5 +23,5 @@ Recently, our endeavors have concentrated on areas such as question answering, d
 <div class="home_imgs_div">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts1.jpg" alt="UTS picture" class="home_imgs"> -->
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2.jpeg" alt="UTS picture" class="home_imgs"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts_logo.png" alt="UTS picture" class="home_imgs">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts_logo_v2.png" alt="UTS picture" class="home_imgs">
 </div>
