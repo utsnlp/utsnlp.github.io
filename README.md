@@ -1,6 +1,10 @@
 # UTS NLP Research Group Website
 
-This is the website of our academic research group at the [University of Technology Sydney](https://www.uts.edu.au/).
+This is the website of our academic research group at the [University of Technology Sydney](https://www.uts.edu.au/). You can access our research group at [utsnlp.github.io](https://utsnlp.github.io/)
+
+<p align=center>
+    <img src="./images/logopic/uts_logo_v2.png" width="25%" height="25%" alt="llm_align_world_example"/>
+</p>
 
 The website template is powered by [Jekyll](https://jekyllrb.com/) and is easy to use. You don't need much front-end knowledge to maintain the website. You can update information by only writing `markdown` and `yml` files.
 
