@@ -11,16 +11,16 @@
   authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
   venue: EMNLP
   link:
-    url: 
-    code: 
+    url: https://arxiv.org/abs/2310.14513
+    code: https://github.com/hyintell/AL-DST
 
 - title: "CITB: A Benchmark for Continual Instruction Tuning"
   year: 2023
   authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
   venue: EMNLP (Findings)
   link:
-    url: 
-    code: 
+    url: https://arxiv.org/abs/2310.14510
+    code: https://github.com/hyintell/CITB
 
 - title: "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models"
   year: 2023
