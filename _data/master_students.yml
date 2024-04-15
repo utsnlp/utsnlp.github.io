@@ -1,5 +1,5 @@
 - name: Shunfeng Zheng
-  photo: user_placeholder.jpg
+  photo: shunfeng.jpg
   duration: 2023
   cosupervision:
   info:
@@ -8,4 +8,15 @@
     google_scholar: 
     github: 
     linkedin: 
+
+- name: Hongbin Na
+  photo: hongbin.jpg
+  duration: 2024
+  cosupervision:
+  info:
+  url:
+    personal_site: https://hongbin-ze.github.io/
+    google_scholar: https://scholar.google.com/citations?hl=en&user=mxK_3hYAAAAJ
+    github: https://github.com/Hongbin-Ze
+    linkedin: https://www.linkedin.com/in/hongbin-na-526543201/
 

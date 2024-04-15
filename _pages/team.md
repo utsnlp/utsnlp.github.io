@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see vacancies)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#master-students), [alumni](#alumni).
+<!-- Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#master-(research)-students), [alumni](#alumni). -->
  <!-- [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## Faculty
@@ -50,10 +50,8 @@ Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#m
   {%- endif -%}
   <!-- <i class="fa fa-envelope"></i> -->
   
-  <ul style="overflow: hidden">
-
-
-  </ul>
+  <!-- <ul style="overflow: hidden">
+  </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -104,8 +102,8 @@ Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#m
   <a href="{{ member.url.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a> &nbsp;
   {%- endif -%}
   <!-- <i class="fa fa-envelope"></i> -->
-  <ul style="overflow: hidden">
-  </ul>
+  <!-- <ul style="overflow: hidden">
+  </ul> -->
 
 </div>
 
@@ -124,7 +122,7 @@ Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#m
 
 <br>
 
-## Master Students
+## Master (Research) Students
 {% assign number_printed = 0 %}
 {% for member in site.data.master_students %}
 
@@ -154,8 +152,58 @@ Jump to [faculty](#faculty), [PhD students](#phd-students), [master students](#m
   {% if member.url.linkedin != nil %}
   <a href="{{ member.url.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a> &nbsp;
   {%- endif -%}
-  <ul style="overflow: hidden">
-  </ul>
+  <!-- <ul style="overflow: hidden">
+  </ul> -->
+
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<br>
+
+## Bachelor (Honours) Students
+{% assign number_printed = 0 %}
+{% for member in site.data.bachelor_students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="avatar_img"  style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>
+    since {{ member.duration }} 
+    <!-- co-supervised with {{ member.cosupervision }} -->
+  </i>
+  <br>
+  {% if member.url.personal_site != nil %}
+  <a href="{{ member.url.personal_site }}" target="_blank"><i class="fa-solid fa-house"></i></a> &nbsp;
+  {%- endif -%}
+  {% if member.url.google_scholar != nil %}
+  <a href="{{ member.url.google_scholar }}" target="_blank"><i class="fa-brands fa-google"></i></a> &nbsp;
+  {%- endif -%}
+  {% if member.url.github != nil %}
+  <a href="{{ member.url.github }}" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
+  {%- endif -%}
+  {% if member.url.linkedin != nil %}
+  <a href="{{ member.url.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a> &nbsp;
+  {%- endif -%}
+  <!-- <ul style="overflow: hidden">
+  </ul> -->
 
 </div>
 
