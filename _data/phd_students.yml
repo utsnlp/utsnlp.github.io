@@ -20,6 +20,17 @@
     github: https://github.com/winni18
     linkedin: https://www.linkedin.com/in/zijing-shi-83100510b/
 
+- name: Wanqi Yang
+  photo: wanqi.jpg
+  duration: 2022
+  cosupervision: 
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
 - name: Mingze Zhong
   photo: mingze.jpeg
   duration: 2023
@@ -30,3 +41,14 @@
     google_scholar: 
     github: 
     linkedin:
+
+- name: Biao Wu
+  photo: biao.png
+  duration: 2024
+  cosupervision: Jie Lu & Mo Namazi
+  info:
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
+    github: https://github.com/White65534?tab=repositories
+    linkedin: 

@@ -27,11 +27,11 @@ Then checkout to the `dev` branch, we recommend to do changes and test it on thi
 git checkout dev
 ```
 
-This website is powered by [Jekyll](https://jekyllrb.com/), install Jekyll and its prerequisites (e.g., Ruby) by following the [doc](https://jekyllrb.com/docs/). 
+This website is powered by [Jekyll](https://jekyllrb.com/), install Jekyll and its prerequisites (e.g., Ruby, GEM) by following the [doc](https://jekyllrb.com/docs/). 
 Then, in the project folder, run 
 
 ```bash
-jekyll serve
+bundle exec jekyll serve
 ```
 
 Open your browser and review the website at: http://localhost:4000. 
