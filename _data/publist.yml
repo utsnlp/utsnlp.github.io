@@ -1,9 +1,33 @@
+- title: "RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering"
+  year: 2024
+  authors: Zihan Zhang, Meng Fang, Ling Chen
+  venue: ACL (Findings)
+  link:
+    url: https://arxiv.org/abs/2402.16457
+    code: https://github.com/hyintell/RetrievalQA
+
+- title: "More than Minorities and Majorities: Understanding Multilateral Bias in Language Generation"
+  year: 2024
+  authors: Jiaxu Zhao, Zijing Shi, Yitong Li, Yulong Pei, Ling Chen, Meng Fang, Mykola Pechenizkiy
+  venue: ACL (Findings)
+  link:
+    url: 
+    code: 
+
+- title: "Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data"
+  year: 2024
+  authors: Yanda Li, Chi Zhang, Gang Yu, Wanqi Yang, Zhibin Wang, Bin Fu, Guosheng Lin, Chunhua Shen, Ling Chen, Yunchao Wei
+  venue: ACL (Findings)
+  link:
+    url: https://arxiv.org/abs/2308.10253
+    code: https://github.com/icoz69/StableLLAVA
+
 - title: "Large Language Models are Neurosymbolic Reasoners"
   year: 2024
   authors: Meng Fang\*, Shilong Deng\*, Yudi Zhang\*, Zijing Shi, Ling Chen, Mykola Pechenizkiy, Jun Wang
   venue: AAAI
   link:
-    url: 
+    url: https://arxiv.org/abs/2401.09334
     code: 
 
 - title: "Human-Guided Moral Decision Making in Text-based Games"
@@ -11,7 +35,7 @@
   authors: Zijing Shi, Meng Fang, Ling Chen, Yali Du, Jun Wang
   venue: AAAI
   link:
-    url: 
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/30155
     code: 
 
 - title: "How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances"
