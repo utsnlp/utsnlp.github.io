@@ -5,7 +5,7 @@
   authors: Zijing Shi, Meng Fang, Ling Chen
   venue: ICLR
   link:
-    url: -
+    url: 
     code:  
 
 
@@ -32,15 +32,13 @@
     code:  
 
 
-
-
 - title: "Detecting Conversational Mental Manipulation with Intent-Aware Prompting"
   year: 2025
   authors: Jiayuan Ma, Hongbin Na, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
   venue: COLING
   link:
     url: https://arxiv.org/abs/2412.08414
-    code:  https://github.com/Anton-Jiayuan-MA/Manip-IAP
+    code:  
 
 
 
