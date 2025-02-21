@@ -1,17 +1,17 @@
 
 
 - title: "Monte Carlo Planning with Large Language Model for Text-Based Games"
-  year: 2024
+  year: 2025
   authors: Zijing Shi, Meng Fang, Ling Chen
   venue: ICLR
   link:
-    url: -
+    url: https://arxiv.org/abs/2411.14842
     code:  
 
 
 
 - title: "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models"
-  year: 2024
+  year: 2025
   authors: Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Tianyi Zhou, Ling Chen
   venue: NAACL
   link:
@@ -24,7 +24,7 @@
 
 
 - title: "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies"
-  year: 2024
+  year: 2025
   authors: Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
   venue: NAACL
   link:
