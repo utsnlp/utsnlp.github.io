@@ -1,13 +1,4 @@
-- name: Zihan Zhang
-  photo: zihanz.jpg
-  duration: 2021
-  cosupervision: Jie Lu & Mo Namazi
-  info:
-  url:
-    personal_site: https://zhangzihangit.github.io/
-    google_scholar: https://scholar.google.com/citations?user=pkaouXAAAAAJ&hl=en
-    github: https://github.com/ZhangzihanGit
-    linkedin: https://www.linkedin.com/in/zihan-zhang-a40855172/
+
 
 - name: Zijing Shi
   photo: zijing.jpg
@@ -52,3 +43,19 @@
     google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
     github: https://github.com/White65534?tab=repositories
     linkedin: 
+
+
+
+- name: Bei Yu
+  photo: yubei.jpg
+  duration: 2024
+  cosupervision: Jie Lu & Mo Namazi
+  info:
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=pFn3Bv4AAAAJ
+    github: https://github.com/1423test
+    linkedin: https://www.linkedin.com/in/beibei-yu-83694331a/
+
+
+    
