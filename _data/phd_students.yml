@@ -4,7 +4,7 @@
   photo: zijing.jpg
   duration: 2022
   cosupervision: Hua Zuo
-  info: Reinforcement Learning in Text-Based Games
+  role: Reinforcement Learning in Text-Based Games
   url:
     personal_site: https://winni18.github.io/
     google_scholar: https://scholar.google.com/citations?user=dIIHQaMAAAAJ&hl
@@ -15,7 +15,7 @@
   photo: wanqi.jpg
   duration: 2022
   cosupervision: 
-  info: Multimodal Benchmark Evaluation in Specific Domains
+  role: Multimodal Benchmark Evaluation in Specific Domains
   url:
     personal_site: 
     google_scholar: 
@@ -26,7 +26,7 @@
   photo: mingze.jpeg
   duration: 2023
   cosupervision: Hua Zuo
-  info:
+  role:
     url:
     personal_site: 
     google_scholar: 
@@ -37,7 +37,7 @@
   photo: biao.png
   duration: 2024
   cosupervision: Jie Lu & Mo Namazi
-  info: Reinforcement Learning Agents for Multimodal Tasks
+  role: Reinforcement Learning Agents for Multimodal Tasks
   url:
     personal_site: 
     google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
@@ -50,7 +50,7 @@
   photo: yubei.jpg
   duration: 2024
   cosupervision: Jie Lu & Mo Namazi
-  info: Prompts-based Agents for Multimodal Tasks
+  role: Prompts-based Agents for Multimodal Tasks
   url:
     personal_site: 
     google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=pFn3Bv4AAAAJ
