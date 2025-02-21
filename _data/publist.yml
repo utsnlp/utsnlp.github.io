@@ -1,3 +1,66 @@
+
+
+
+
+- title: "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models"
+  year: 2024
+  authors: Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
+  venue: NAACL
+  link:
+    url: https://arxiv.org/abs/2411.14842
+    code:  
+
+
+
+
+
+
+- title: "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies"
+  year: 2024
+  authors: Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
+  venue: NAACL
+  link:
+    url: https://arxiv.org/abs/2411.00781
+    code:  
+
+
+
+
+- title: "Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering."
+  year: 2024
+  authors: Jiayuan Ma, Hongbin Na, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
+  venue: COLING
+  link:
+    url: https://arxiv.org/abs/2412.08414
+    code:  
+
+
+
+    
+
+- title: "MedINST: Meta Dataset of Biomedical Instructions."
+  year: 2024
+  authors: Wenhan Han, Meng Fang, Zihan Zhang, Yu Yin, Zirui Song, Ling Chen, Mykola Pechenizkiy, Qingyu Chen
+  venue: EMNLP
+  link:
+    url: https://arxiv.org/abs/2410.13458
+    code:  https://github.com/aialt/MedINST
+
+
+
+
+
+- title: "Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering."
+  year: 2024
+  authors: Wanqi Yang, Yanda Li, Meng Fang, Ling Chen.
+  venue: EMNLP
+  link:
+    url: https://www.arxiv.org/abs/2409.16909
+    code:  
+
+
+
+
 - title: "RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering"
   year: 2024
   authors: Zihan Zhang, Meng Fang, Ling Chen
@@ -5,6 +68,12 @@
   link:
     url: https://arxiv.org/abs/2402.16457
     code: https://github.com/hyintell/RetrievalQA
+
+
+
+
+
+
 
 - title: "More than Minorities and Majorities: Understanding Multilateral Bias in Language Generation"
   year: 2024
