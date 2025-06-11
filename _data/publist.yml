@@ -1,4 +1,28 @@
+- title: "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models"
+  year: 2025
+  authors: Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Tianyi Zhou, Ling Chen
+  venue: ACL (Findings)
+  link:
+    url: https://arxiv.org/abs/2411.14842
+    code:  
 
+
+- title: "A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions"
+  year: 2025
+  authors: Hongbin Na, Yining Hua, Zimu Wang, Tao Shen, Beibei Yu, Lilin Wang, Wei Wang, John Torous, Ling Chen
+  venue: ACL (Findings)
+  link:
+    url: https://arxiv.org/pdf/2502.11095
+    code: 
+
+
+- title: "SpatialWebAgent: Leveraging Large Language Models for Automated Spatial Information Extraction and Map Grounding"
+  year: 2025
+  authors: Shunfeng Zheng, Meng Fang, Ling Chen
+  venue: ACL (Demo)
+  link:
+    url: 
+    code: https://sites.google.com/view/SpatialWebAgent
 
 - title: "Monte Carlo Planning with Large Language Model for Text-Based Games"
   year: 2025
@@ -10,12 +34,12 @@
 
 
 
-- title: "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models"
+- title: "MTPChat: A Multimodal Time-Aware Persona Dataset for Conversational Agents"
   year: 2025
-  authors: Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Tianyi Zhou, Ling Chen
-  venue: NAACL
+  authors: Wanqi Yang, Yanda Li, Meng Fang, Ling Chen
+  venue: NAACL (Findings)
   link:
-    url: https://arxiv.org/abs/2411.14842
+    url: https://aclanthology.org/2025.findings-naacl.323.pdf
     code:  
 
 
