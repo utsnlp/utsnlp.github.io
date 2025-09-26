@@ -1,3 +1,76 @@
+
+
+
+
+
+- title: "Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving"
+  year: 2025
+  authors: Shunfeng Zheng, Yudi Zhang, Meng Fang, Zihan Zhang, Zhitan Wu, Mykola Pechenizkiy, Ling Chen
+  venue: EMNLP (Findings)
+  link:
+    url:  
+    code:  
+
+
+- title: "Spiral of Silence in Large Language Model Agents"
+  year: 2025
+  authors: Mingze Zhong, Meng Fang, Zijing Shi, Yuxuan Huang, Shunfeng Zheng, Yali Du, Ling Chen, Jun Wang
+  venue: EMNLP (Findings)
+  link:
+    url:  
+    code:  
+
+- title: "Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving"
+  year: 2025
+  authors: Shunfeng Zheng, Yudi Zhang, Meng Fang, Zihan Zhang, Zhitan Wu, Mykola Pechenizkiy, Ling Chen
+  venue: EMNLP (Findings)
+  link:
+    url:  
+    code:  
+
+
+- title: "STA-CoT: Structured Target-Centric Agentic Chain-of-Thought for Consistent Multi-Image Geological Reasoning"
+  year: 2025
+  authors: Beibei Yu, Tao Shen, Ling Chen
+  venue: EMNLP (Findings)
+  link:
+    url:  
+    code:  
+
+
+- title: "PresentAgent: Multimodal Agent for Presentation Video Generation"
+  year: 2025
+  authors: Jingwei Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao
+  venue: EMNLP (System Demonstrations)
+  link:
+    url:  
+    code:  
+
+
+- title: "Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement"
+  year: 2025
+  authors: Haotan Guo, Jianfei He, Jiayuan Ma, Hongbin Na, Zimu Wang, Haiyang Zhang, Qi Chen, Wei Wang, Zijing Shi, Tao Shen, Ling Chen
+  venue: EMNLP (Industry Track)
+  link:
+    url:  
+    code:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - title: "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models"
   year: 2025
   authors: Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Ling Chen
