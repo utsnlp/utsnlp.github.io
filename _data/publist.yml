@@ -20,13 +20,6 @@
     url:  
     code:  
 
-- title: "Benchmarking Foundation Models with Retrieval-Augmented Generation in Olympic-Level Physics Problem Solving"
-  year: 2025
-  authors: Shunfeng Zheng, Yudi Zhang, Meng Fang, Zihan Zhang, Zhitan Wu, Mykola Pechenizkiy, Ling Chen
-  venue: EMNLP (Findings)
-  link:
-    url:  
-    code:  
 
 
 - title: "STA-CoT: Structured Target-Centric Agentic Chain-of-Thought for Consistent Multi-Image Geological Reasoning"
@@ -43,8 +36,8 @@
   authors: Jingwei Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao
   venue: EMNLP (System Demonstrations)
   link:
-    url:  
-    code:  
+    url:  https://arxiv.org/abs/2507.04036
+    code:  https://github.com/AIGeeksGroup/PresentAgent
 
 
 - title: "Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement"
@@ -52,7 +45,7 @@
   authors: Haotan Guo, Jianfei He, Jiayuan Ma, Hongbin Na, Zimu Wang, Haiyang Zhang, Qi Chen, Wei Wang, Zijing Shi, Tao Shen, Ling Chen
   venue: EMNLP (Industry Track)
   link:
-    url:  
+    url:  https://arxiv.org/abs/2507.07640
     code:  
 
 
@@ -150,6 +143,16 @@
     url: https://arxiv.org/abs/2410.13458
     code:  https://github.com/aialt/MedINST
 
+
+    
+
+- title: "Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion."
+  year: 2024
+  authors: Zeyu Zhang, Yiran Wang, Biao Wu, Shuo Chen, Zhiyuan Zhang, Shiya Huang, Wenbo Zhang, Meng Fang, Ling Chen, Yang Zhao
+  venue: BMVC
+  link:
+    url: https://arxiv.org/abs/2405.11286
+    code:  
 
 
 
