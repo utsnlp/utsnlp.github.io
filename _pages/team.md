@@ -85,6 +85,8 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>
     since {{ member.duration }} 
+    <br>
+    topic: {{ member.role }}
     <!-- <br>
     co-supervised with {{ member.cosupervision }} -->
   </i>
@@ -140,7 +142,7 @@ permalink: /team/
   <i>
     since {{ member.duration }} 
     <br>
-    Role: {{ member.role }}
+    topic: {{ member.role }}
     <!-- <br>
     co-supervised with {{ member.cosupervision }} -->
   </i>
@@ -194,7 +196,10 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>
     since {{ member.duration }} 
-    <!-- co-supervised with {{ member.cosupervision }} -->
+    <br>
+    topic: {{ member.role }}
+    <!-- <br>
+    co-supervised with {{ member.cosupervision }} -->
   </i>
   <br>
   {% if member.url.personal_site != nil %}
