@@ -4,7 +4,7 @@
   photo: wanqi.jpg
   duration: 2022
   cosupervision: 
-  role: Multimodal Benchmark Evaluation in Specific Domains
+  topic: Multimodal Benchmark Evaluation in Specific Domains
   url:
     personal_site: 
     google_scholar: 
@@ -15,7 +15,7 @@
   photo: mingze.jpeg
   duration: 2023
   cosupervision: Hua Zuo
-  role:
+  topic:
     url:
     personal_site: 
     google_scholar: 
@@ -27,7 +27,7 @@
   photo: yubei.jpg
   duration: 2024
   cosupervision: Jie Lu & Mo Namazi
-  role: Prompts-based Agents for Multimodal Tasks
+  topic: Prompts-based Agents for Multimodal Tasks
   url:
     personal_site: 
     google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=pFn3Bv4AAAAJ
@@ -39,7 +39,7 @@
   photo: jinyuan.jpg
   duration: 2024
   cosupervision:  
-  role: Hallucination Suppression in Large Language Models
+  topic: Hallucination Suppression in Large Language Models
   url:
     personal_site: 
     google_scholar: 
@@ -51,7 +51,7 @@
   photo: biaowu.jpg
   duration: 2025
   cosupervision: Jie Lu & Mo Namazi
-  role: Reinforcement Learning Agents for Multimodal Tasks
+  topic: Reinforcement Learning Agents for Multimodal Tasks
   url:
     personal_site: 
     google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
