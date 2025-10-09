@@ -2,6 +2,7 @@
   photo: shunfeng.jpg
   duration: 2023
   cosupervision:
+  topic: Multimodal Benchmark Evaluation in Science Domains
   info:
   url:
     personal_site: 
@@ -12,6 +13,7 @@
 - name: Hongbin Na
   photo: hongbin.jpg
   duration: 2024
+  topic:  Psychometric Analysis of Large Language Models
   cosupervision:
   info:
   url:
@@ -26,6 +28,7 @@
   photo: junfeng.jpg
   duration: 2023
   cosupervision:
+  topic: Vision Language Models Based Agent
   info:
   url:
     personal_site: 
