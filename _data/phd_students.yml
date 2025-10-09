@@ -15,7 +15,7 @@
   photo: mingze.jpeg
   duration: 2023
   cosupervision: Hua Zuo
-  topic:
+  topic: Large Language Model-based Agents
     url:
     personal_site: 
     google_scholar: 
@@ -27,7 +27,7 @@
   photo: yubei.jpg
   duration: 2024
   cosupervision: Jie Lu & Mo Namazi
-  topic: Prompts-based Agents for Multimodal Tasks
+  topic: Prompt-based Agents for Multimodal Tasks
   url:
     personal_site: 
     google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=pFn3Bv4AAAAJ
