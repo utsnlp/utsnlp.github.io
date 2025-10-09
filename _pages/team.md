@@ -136,11 +136,15 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="avatar_img"  style="float: left" />
   <h4>{{ member.name }}</h4>
+ 
   <i>
     since {{ member.duration }} 
+    <br>
+    Role: {{ member.role }}
     <!-- <br>
     co-supervised with {{ member.cosupervision }} -->
   </i>
+ 
   <br>
   {% if member.url.personal_site != nil %}
   <a href="{{ member.url.personal_site }}" target="_blank"><i class="fa-solid fa-house"></i></a> &nbsp;
