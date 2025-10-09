@@ -72,7 +72,7 @@ permalink: /team/
 
 ## Postdoc Students
 {% assign number_printed = 0 %}
-{% for member in site.data.Postdoc_students %}
+{% for member in site.data.postdoc_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
