@@ -86,7 +86,7 @@ permalink: /team/
   <i>
     since {{ member.duration }} 
     <br>
-    topic: {{ member.role }}
+    topic: {{ member.topic }}
     <!-- <br>
     co-supervised with {{ member.cosupervision }} -->
   </i>
@@ -142,7 +142,7 @@ permalink: /team/
   <i>
     since {{ member.duration }} 
     <br>
-    topic: {{ member.role }}
+    topic: {{ member.topic }}
     <!-- <br>
     co-supervised with {{ member.cosupervision }} -->
   </i>
@@ -197,7 +197,7 @@ permalink: /team/
   <i>
     since {{ member.duration }} 
     <br>
-    topic: {{ member.role }}
+    topic: {{ member.topic }}
     <!-- <br>
     co-supervised with {{ member.cosupervision }} -->
   </i>
