@@ -70,7 +70,7 @@ permalink: /team/
 
 <br>
 
-## Postdoc Students
+## Postdoc Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc_students %}
 
