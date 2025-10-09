@@ -70,6 +70,59 @@ permalink: /team/
 
 <br>
 
+## Postdoc Students
+{% assign number_printed = 0 %}
+{% for member in site.data.Postdoc_students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="avatar_img"  style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>
+    since {{ member.duration }} 
+    <!-- <br>
+    co-supervised with {{ member.cosupervision }} -->
+  </i>
+  <br>
+  {% if member.url.personal_site != nil %}
+  <a href="{{ member.url.personal_site }}" target="_blank"><i class="fa-solid fa-house"></i></a> &nbsp;
+  {%- endif -%}
+  {% if member.url.google_scholar != nil %}
+  <a href="{{ member.url.google_scholar }}" target="_blank"><i class="fa-brands fa-google"></i></a> &nbsp;
+  {%- endif -%}
+  {% if member.url.github != nil %}
+  <a href="{{ member.url.github }}" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
+  {%- endif -%}
+  {% if member.url.linkedin != nil %}
+  <a href="{{ member.url.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a> &nbsp;
+  {%- endif -%}
+  <!-- <i class="fa fa-envelope"></i> -->
+  <!-- <ul style="overflow: hidden">
+  </ul> -->
+
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+ 
+<br>
+
 ## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
