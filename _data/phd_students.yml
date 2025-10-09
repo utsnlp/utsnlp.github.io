@@ -33,18 +33,6 @@
     github: 
     linkedin:
 
-- name: Biao Wu
-  photo: biaowu.jpg
-  duration: 2024
-  cosupervision: Jie Lu & Mo Namazi
-  role: Reinforcement Learning Agents for Multimodal Tasks
-  url:
-    personal_site: 
-    google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
-    github: https://github.com/White65534?tab=repositories
-    linkedin: 
-
-
 
 - name: Beibei Yu
   photo: yubei.jpg
@@ -57,6 +45,29 @@
     github: https://github.com/1423test
     linkedin: https://www.linkedin.com/in/beibei-yu-83694331a/
 
+
+- name: Jinyuan Luo
+  photo: jinyuan.jpg
+  duration: 2024
+  cosupervision:  
+  role: Hallucination Suppression in Large Language Models
+  url:
+    personal_site: 
+    google_scholar: 
+    github: https://github.com/ljy66666
+    linkedin: https://www.linkedin.com/in/jinyuan-luo-6a24b4352/
+
+    
+- name: Biao Wu
+  photo: biaowu.jpg
+  duration: 2025
+  cosupervision: Jie Lu & Mo Namazi
+  role: Reinforcement Learning Agents for Multimodal Tasks
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
+    github: https://github.com/White65534?tab=repositories
+    linkedin: 
 
 
 
