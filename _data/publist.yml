@@ -1,5 +1,50 @@
 
 
+
+
+- title: "DOSE: Data Selection for Multi-Modal LLMs via Off-the-Shelf Models"
+  year: 2026
+  authors: Biao Wu, Yiwu Zhong, Meng Fang, Ling Chen
+  venue: ACL Findings
+  link:
+    url:  
+    code:  
+
+
+
+- title: "Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing"
+  year: 2026
+  authors: Baode Wang*, Biao Wu*, Meng Fang*, Zuming Huang, Ling Chen, Wei Chu, Yuan Qi
+  venue: ACL Findings
+  link:
+    url:  https://arxiv.org/abs/2506.03197
+    code:  
+
+
+
+- title: "MMCLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training"
+  year: 2026
+  authors: Biao Wu, Yutong Xie, Zeyu Zhang, Minh Hieu Phan, Qi Chen, Ling Chen, Qi Wu
+  venue: ACL
+  link:
+    url:  https://arxiv.org/abs/2407.19546
+    code:  
+
+
+
+
+
+- title: "VaseVQA: Multimodal agent and benchmark for ancient greek pottery"
+  year: 2026
+  authors: Jinchao Ge, Tengfei Cheng, Biao Wu, Zeyu Zhang, Meng Fang, Ling Chen, Yang Zhao
+  venue: EACL Findings
+  link:
+    url:  https://aclanthology.org/2026.findings-eacl.60/
+    code:  
+
+
+
+
 - title: "Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach"
   year: 2026
   authors: Biao Wu, Meng Fang, Ling Chen, Ke Xu, Tao Cheng, Jun Wang
@@ -29,7 +74,7 @@
   authors: Shunfeng Zheng, Yudi Zhang, Meng Fang, Zihan Zhang, Zhitan Wu, Mykola Pechenizkiy, Ling Chen
   venue: EMNLP (Findings)
   link:
-    url:  
+    url:  https://aclanthology.org/2025.findings-emnlp.1196/
     code:  
 
 
@@ -38,7 +83,7 @@
   authors: Mingze Zhong, Meng Fang, Zijing Shi, Yuxuan Huang, Shunfeng Zheng, Yali Du, Ling Chen, Jun Wang
   venue: EMNLP (Findings)
   link:
-    url:  
+    url:  https://aclanthology.org/2025.findings-emnlp.1262/
     code:  
 
 
@@ -48,7 +93,7 @@
   authors: Beibei Yu, Tao Shen, Ling Chen
   venue: EMNLP (Findings)
   link:
-    url:  
+    url:  https://aclanthology.org/2025.findings-emnlp.1386/
     code:  
 
 
